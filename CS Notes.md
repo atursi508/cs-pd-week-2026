@@ -11,3 +11,10 @@ CS PD Week GitHub Workshop Notes
 Hello
 
 You can also have 'inline code' formatting
+*on going project for students to work on
+Git:
+Clone - get full file 
+Add - new files to track history
+Commit - a new version and tell it to describe
+Push - new history to another computer
+ACP loop
