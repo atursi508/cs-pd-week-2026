@@ -20,4 +20,4 @@ Commit - a new version and tell it to describe
 Push - new history to another computer
 ACP loop
 
-[Styling markdown tips] (https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[Styling markdown tips](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
