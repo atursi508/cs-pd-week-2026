@@ -42,3 +42,8 @@ Copilot is an AI model trained to understand software, might be outdated or clos
 Keiths practice for copilot: Add a script with tests that counts from 1 to 100 - it set it up in a fizzbuzz style, naming it fizzbutt
 
 
+CoPilot prompt: Let's use the project README to describe and plan a new program to help with classroom seating charts. *use this prompt to let CoPilot think about the problem first, before writing the code. 
+
+Then copilot gave options and suggestions to clarify.
+
+Keith Prompt: single-page app that can be hosted in github pages- server backed app needs something else to run, then keith put inputs: classroom requirements student list drag and drop, ...then i got lost:)
