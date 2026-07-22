@@ -9,3 +9,5 @@ CS PD Week GitHub Workshop Notes
 **Bold** and _italics_text.
 
 Hello
+
+You can also have 'inline code' formatting
