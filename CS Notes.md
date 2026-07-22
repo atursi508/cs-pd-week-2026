@@ -31,3 +31,6 @@ pie title Pets I Have Owned
     "Hedgehog" : 1
     "Gerbils" : 2
 ```
+
+Fizz Buzz game
+Codewars, bebras challenge, leetcode
