@@ -1,0 +1,9 @@
+CS PD Week GitHub Workshop Notes
+
+-this is a bullet
+-this is another bullet
+
+1. number
+2. two
+
+**Bold** and _italics_text.
