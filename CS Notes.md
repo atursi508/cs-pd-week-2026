@@ -33,4 +33,5 @@ pie title Pets I Have Owned
 ```
 
 Fizz Buzz game
-Codewars, bebras challenge, leetcode
+Codewars, bebras challenge, leetcode, Advent of Code
+    -how many different ways can I think about solving this problem. Don't give me the answer.
