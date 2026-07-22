@@ -23,8 +23,11 @@ ACP loop
 [Styling markdown tips](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 ```mermaid
-pie title Pets I Own
-    "Dogs" : 386
-    "Cats" : 85
-    "Rats" : 15
+pie title Pets I Have Owned
+    "Cats" : 4
+    "Turtle" : 1
+    "Bunny" : 1
+    "Gecko" : 1
+    "Hedgehog" : 1
+    "Gerbils" : 2
 ```
