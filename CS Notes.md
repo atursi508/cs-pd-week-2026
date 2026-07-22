@@ -36,3 +36,7 @@ Fizz Buzz game
 Codewars, bebras challenge, leetcode, Advent of Code
 
 -General Prompts: how many different ways can I think about solving this problem. Don't give me the answer.
+
+Copilot is an AI model trained to understand software, might be outdated or close. 
+
+Keiths practice for copilot: Add a script with tests that counts from 1 to 100 - it set it up in a fizzbuzz style, naming it fizzbutt
