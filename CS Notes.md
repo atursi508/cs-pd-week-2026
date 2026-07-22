@@ -21,3 +21,10 @@ Push - new history to another computer
 ACP loop
 
 [Styling markdown tips](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+```mermaid
+pie title Pets I Own
+    "Dogs" : 386
+    "Cats" : 85
+    "Rats" : 15
+```
