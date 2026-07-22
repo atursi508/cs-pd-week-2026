@@ -1,4 +1,4 @@
-CS PD Week GitHub Workshop Notes
+**CS PD Week GitHub Workshop Notes**
 
 -this is a bullet
 -this is another bullet
