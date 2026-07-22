@@ -11,6 +11,7 @@ CS PD Week GitHub Workshop Notes
 Hello
 
 You can also have 'inline code' formatting
+
 on going project for students to work on
 Git:
 Clone - get full file 
