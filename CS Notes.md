@@ -18,6 +18,7 @@ Clone - get full file
 Add - new files to track history
 Commit - a new version and tell it to describe
 Push - new history to another computer
+Pull request - asking someone to add your branch to their main part
 ACP loop
 
 [Styling markdown tips](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
@@ -47,3 +48,5 @@ CoPilot prompt: Let's use the project README to describe and plan a new program 
 Then copilot gave options and suggestions to clarify.
 
 Keith Prompt: single-page app that can be hosted in github pages- server backed app needs something else to run, then keith put inputs: classroom requirements student list drag and drop, ...then i got lost:)
+
+Can create github projects and use their templates. Or, find a small project and change something minimal, to practice. 
